@@ -1,61 +1,54 @@
-TaskVenture
+# TaskVenture
 
-TaskVenture is a gamified task management platform built with students in mind. It transforms productivity into an engaging experience by integrating game mechanics such as XP, levels, streaks, and rewards.
+**TaskVenture** is a gamified task management platform built with students in mind. It transforms productivity into an engaging experience by integrating game mechanics such as XP, levels, streaks, and rewards.
 
-✨ Features
+## 🚀 Features
 
-🎯 Task Tracking – Easily create, manage, and complete tasks.
+- 🎯 **Task Tracking** – Easily create, manage, and complete tasks.
+- 🧠 **Gamification** – Earn XP, level up, and build streaks to stay motivated.
+- 🎨 **Customization** – Personalize your avatar and theme for a more immersive experience.
+- 📈 **Visual Analytics** – View progress and productivity trends through interactive charts.
+- 🏆 **Rewards System** – Unlock achievements and in-app rewards for consistent productivity.
 
-🧠 Gamification – Earn XP, level up, and build streaks to stay motivated.
+## 📚 Ideal For
 
-🎨 Customization – Personalize your avatar and theme for a more immersive experience.
+- Students who want a fun, interactive way to manage school tasks.
+- Users who respond well to gamified motivation and habit-building.
+- Anyone looking to make daily productivity more rewarding and visual.
 
-📈 Visual Analytics – View progress and productivity trends through interactive charts.
+## 🛠️ Tech Stack
 
-🏆 Rewards System – Unlock achievements and in-app rewards for consistent productivity.
+- **Frontend:** Next.js (React)
+- **Styling:** Tailwind CSS (or any CSS framework you used)
+- **Fonts:** Optimized using `next/font` with Geist (by Vercel)
+- **Deployment:** [Vercel](https://vercel.com)
 
-📚 Ideal For
+## 🧪 Getting Started
 
-Students who want a fun, interactive way to manage school tasks.
+1. Clone the repository:
 
-Users who respond well to gamified motivation and habit-building.
+   ```bash
+   git clone https://github.com/your-username/taskventure.git
+   cd taskventure
+   
+2. Install dependencies:
+   ```bash
+    npm install
+    # or
+    yarn
 
-Anyone looking to make daily productivity more rewarding and visual.
+3. Start the development server:
 
-🛠️ Tech Stack
+   ```bash
+   npm run dev
 
-Frontend: Next.js (React)
+4. Visit http://localhost:3000 to see it live.
 
-Styling: Tailwind CSS (or any CSS framework you used)
 
-Fonts: Optimized using next/font with Geist (by Vercel)
+SHIFT OUT - CTRL + V 
 
-Deployment: Vercel
-
-🧪 Getting Started
-
-Clone the repository:
-
-git clone https://github.com/your-username/taskventure.git
-cd taskventure
-
-Install dependencies:
-
-npm install
-yarn
-
-Start the development server:
-
-npm run dev
-
-Visit http://localhost:3000 to see it live.
-
-📆 Deployment
-
-Deploy your app easily with Vercel. Refer to the Next.js deployment documentation for more options.
-
-📄 License
-
-MIT
-
-✨ Stay productive. Level up your life with TaskVenture!
+Bacolor, James Clark C.
+Co, Kyle Desmond P.
+Deposoy, John Gavin
+Nadonga, Solomon M.
+Peralta, Landon Lawrence A.
