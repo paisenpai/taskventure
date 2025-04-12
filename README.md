@@ -43,12 +43,3 @@
    npm run dev
 
 4. Visit http://localhost:3000 to see it live.
-
-
-SHIFT OUT - CTRL + V 
-
-Bacolor, James Clark C.
-Co, Kyle Desmond P.
-Deposoy, John Gavin
-Nadonga, Solomon M.
-Peralta, Landon Lawrence A.
