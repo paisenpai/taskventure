@@ -42,7 +42,6 @@ cd taskventure
 Install dependencies:
 
 npm install
-# or
 yarn
 
 Start the development server:
